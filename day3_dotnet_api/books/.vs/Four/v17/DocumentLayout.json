@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meetk\\Downloads\\Four\\Four\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|c:\\users\\meetk\\downloads\\four\\four\\four\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|solutionrelative:four\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|c:\\users\\meetk\\downloads\\four\\four\\four\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|solutionrelative:four\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|c:\\users\\meetk\\downloads\\four\\four\\four\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|solutionrelative:four\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|c:\\users\\meetk\\downloads\\four\\four\\four\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|solutionrelative:four\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|c:\\users\\meetk\\downloads\\four\\four\\four\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|solutionrelative:four\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|c:\\users\\meetk\\downloads\\four\\four\\four\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|solutionrelative:four\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|c:\\users\\meetk\\downloads\\four\\four\\four\\four.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4EFF5CD4-65BC-4DBA-8E3E-5C3A4B3C3510}|Four\\Four.csproj|solutionrelative:four\\four.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Four\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Models\\Book.cs",
+              "RelativeToolTip": "Four\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:08:21.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "Four\\Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Service\\BookService.cs",
+              "RelativeToolTip": "Four\\Service\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:35:37.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Four\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Four\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:34:23.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Four\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\WeatherForecast.cs",
+              "RelativeToolTip": "Four\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:32:29.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Four.http",
+              "DocumentMoniker": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Four.http",
+              "RelativeDocumentMoniker": "Four\\Four.http",
+              "ToolTip": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Four.http",
+              "RelativeToolTip": "Four\\Four.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-22T09:32:52.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Four\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Four\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:43:16.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Program.cs",
+              "RelativeDocumentMoniker": "Four\\Program.cs",
+              "ToolTip": "C:\\Users\\meetk\\Downloads\\Four\\Four\\Four\\Program.cs",
+              "RelativeToolTip": "Four\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:38:54.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
